@@ -1,7 +1,6 @@
 # Vizor.Sendptr
 
-[![Latest Release](https://img.shields.io/github/v/release/username/project-name)](https://github.com/username/project-name/releases)
-![GitHub Release](https://img.shields.io/github/v/release/VizorAX/sendptr)
+[![Latest Release](https://img.shields.io/github/v/release/VizorAX/sendptr)](https://github.com/VizorAX/sendptr/releases)
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
