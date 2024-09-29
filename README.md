@@ -1,9 +1,11 @@
-# Vizor.Sendframe
+# Vizor.Sendptr
 
 [![Latest Release](https://img.shields.io/github/v/release/username/project-name)](https://github.com/username/project-name/releases)
+![GitHub Release](https://img.shields.io/github/v/release/VizorAX/sendptr)
+
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-> Vizor Pointer Streaming Suite includes `vizor.sendptr.exe` and `vizor.recvptr.exe` for efficient, low-latency mouse pointer and event streaming over a network.
+> Vizor.Sendptr includes both `vizor.sendptr.exe` and `vizor.recvptr.exe` for efficient, low-latency mouse pointer and event streaming over a network.
 
 🌟 **Key Features**
 -------------------
