@@ -1,6 +1,6 @@
 # Vizor.Sendptr
 
-[![Latest Release](https://img.shields.io/github/v/release/VizorAX/sendptr)](https://github.com/VizorAX/sendptr/releases)
+[![Release](https://img.shields.io/github/v/release/VizorAX/sendptr)](https://github.com/VizorAX/sendptr/releases)
 [![License](https://img.shields.io/github/license/VizorAX/sendptr)](LICENSE)
 
 > Vizor.Sendptr includes both `vizor.sendptr.exe` and `vizor.recvptr.exe` for efficient, low-latency mouse pointer and event streaming over a network.
@@ -26,21 +26,20 @@
 
 ### **Installation Steps**
 
-1.  **Download the Latest Release**: Get the executables from the [Releases](https://github.com/username/project-name/releases) page.
+1.  **Download the Latest Release**: Get the executables from the [Releases](https://github.com/VizorAX/sendptr/releases) page.
     
 2.  **Extract the Package**:
     *   Unzip the downloaded package to your preferred directory.
     
 3.  **Run the Executables**:
-    *   **To Stream Pointer Data and Events**: `vizor.sendptr.exe <streamer_port> <receiver_address> <receiver_port>`
-    *   **To Receive Pointer Data and Events**: `vizor.recvptr.exe <receiver_port> <streamer_address> <streamer_port>`
+    *   **To Stream Pointer Events**: `vizor.sendptr.exe <streamer_port> <receiver_address> <receiver_port>`
+    *   **To Receive Pointer Events**: `vizor.recvptr.exe <receiver_port> <streamer_address> <streamer_port>`
 
 4.  **Launch the Application**:
     *   After running the commands, the executables will handle the streaming and reception of pointer data and events as per the provided parameters.
 
 📖 **Usage Examples**
 ---------------------
-
 ### Streaming Pointer Data and Events
 ```bash
 vizor.sendptr.exe 5000 192.168.1.100 6000
@@ -55,20 +54,17 @@ vizor.recvptr.exe 6000 192.168.1.50 5000
 
 🛠️ **Troubleshooting**
 -----------------------
-
 If you encounter issues, try the following:
 
-*   **Check for Updates**: Ensure you have the latest version from the [Releases](https://github.com/username/project-name/releases) page.
+*   **Check for Updates**: Ensure you have the latest version from the [Releases](https://github.com/VizorAX/sendptr/releases) page.
 *   **Verify Network Configuration**: Ensure the network settings match on both streaming and receiving ends.
 *   **Verify Parameters**: Double-check command-line arguments for correctness.
-*   **Contact Support**: Reach out to support@example.com with details of your issue.
+*   **Contact Support**: Reach out to [sansorich@gmail.com](mailto:sansorich@gmail.com) with details of your issue.
 
 📄 **License**
 --------------
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for more details.
 
 📧 **Contact**
 --------------
-
-*   **Your Name**: [LinkedIn](https://www.linkedin.com/in/yourname) | [Email](mailto:yourname@example.com)
+- **Rodrigo R. S. Sorgato**: [LinkedIn](https://www.linkedin.com/in/rrssorgato) | [Email](mailto:sansorich@gmail.com)
