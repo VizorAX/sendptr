@@ -1,4 +1,4 @@
-# VIZOR.SENDPTR
+# Vizor.Sendframe
 
 [![Latest Release](https://img.shields.io/github/v/release/username/project-name)](https://github.com/username/project-name/releases)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
