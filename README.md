@@ -1,7 +1,7 @@
 # Vizor.Sendptr
 
 [![Release](https://img.shields.io/github/v/release/VizorAX/sendptr)](https://github.com/VizorAX/sendptr/releases)
-[![License](https://img.shields.io/github/license/VizorAX/sendptr)](LICENSE)
+
 
 > **Vizor.Sendptr** includes both `vizor.sendptr.exe` and `vizor.recvptr.exe` for efficient, low-latency mouse pointer and event streaming over a network.
 
